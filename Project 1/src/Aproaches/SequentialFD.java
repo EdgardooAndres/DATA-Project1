@@ -6,7 +6,9 @@ import java.util.Map;
 
 import experimentClasses.FrequencyCounter;
 
-public class SequentialFD<E extends Comparable<E>> extends FrequencyCounter<E> {
+public class SequentialFD<E extends Comparable<E>> extends FrequencyCounter<E> 
+//TODO this class uses arrays
+{
 
 	public SequentialFD() {
 		super("Sequential");
