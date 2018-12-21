@@ -1,2 +1,2 @@
-# DATA-Project1
+# 3 approaches to count how many occurrences of each different object exist in a list
 In this programming project, you will implement three approaches to solve a simple problem: given a list of  objects, count how many occurrences of each different object exist in that list; which is the same as determining the frequency distribution of different objects in the list. In addition to that, you will also implement a component whose goal is to experiment with those three alternatives to measure the efficiency of each strategy in terms of execution time. 
